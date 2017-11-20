@@ -1,0 +1,13 @@
+D:\EasyManager\EasyManager\bin\Debug\EasyManager.exe
+D:\EasyManager\EasyManager\bin\Debug\EasyManager.pdb
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.Form1.resources
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.Properties.Resources.resources
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.csproj.GenerateResource.Cache
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.exe
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.pdb
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.csprojResolveAssemblyReference.cache
+D:\EasyManager\EasyManager\bin\Debug\Interop.WMPLib.dll
+D:\EasyManager\EasyManager\obj\Debug\Interop.WMPLib.dll
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.csproj.ResolveComReference.cache
+D:\EasyManager\EasyManager\obj\Debug\EasyManager.TaskWizard.resources
+D:\EasyManager\EasyManager\bin\Debug\EasyManager.exe.config
